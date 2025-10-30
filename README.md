@@ -8,11 +8,11 @@
 
 I'm a passionate software developer and machine learning enthusiast with a strong background in algorithm design and problem-solving. I love creating innovative solutions and exploring new technologies. My work spans across various domains including AI/ML, web development, and algorithmic problem-solving.
 
-- 🔭 I'm currently working on AI-powered applications and automation tools
-- 🌱 I'm constantly learning and exploring new technologies
-- 💡 I enjoy solving complex algorithmic challenges
-- 🎯 Goal: Contribute to impactful open-source projects
-- ⚡ Fun fact: I'm a Pink Floyd enthusiast!
+- I'm currently working on AI-powered applications and automation tools
+- I'm constantly learning and exploring new technologies
+- I enjoy solving complex algorithmic challenges
+- Goal: Contribute to impactful open-source projects
+- Fun fact: I'm a Pink Floyd enthusiast!
 
 ## 📊 GitHub Stats
 
