@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Machine+Learning+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate software developer and machine learning enthusiast with a strong background in algorithm design and problem-solving. I love creating innovative solutions and exploring new technologies. My work spans across various domains including AI/ML, web development, and algorithmic problem-solving.
 
@@ -14,14 +14,14 @@ I'm a passionate software developer and machine learning enthusiast with a stron
 - Goal: Contribute to impactful open-source projects
 - Fun fact: I'm a Pink Floyd enthusiast!
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IDebnath&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IDebnath&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
-## 💻 Languages & Technologies
+## Languages & Technologies
 
 <div align="center">
   
@@ -48,15 +48,15 @@ I'm a passionate software developer and machine learning enthusiast with a stron
 
 </div>
 
-## 📈 Language Usage Statistics
+## Language Usage Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDebnath&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
-## 🎯 Featured Projects
+## Featured Projects
 
-### 🤖 Machine Learning & AI
+### Machine Learning & AI
 
 [![Facial Recognition App](https://img.shields.io/badge/Facial_Recognition_App-FF6B6B?style=for-the-badge&logo=python&logoColor=white)](https://github.com/IDebnath/Facial-Recognition-App)
 - Developed a facial recognition application using machine learning algorithms
@@ -70,7 +70,7 @@ I'm a passionate software developer and machine learning enthusiast with a stron
 - AI-powered ticketing system for automated support
 - Technologies: Python, Machine Learning
 
-### 🧮 Algorithms & Problem Solving
+### Algorithms & Problem Solving
 
 [![Sliding Puzzle Solver](https://img.shields.io/badge/Sliding_Puzzle_Solver-FFE66D?style=for-the-badge&logo=python&logoColor=black)](https://github.com/IDebnath/Sliding-Puzzle-Solver)
 - Implemented efficient algorithms to solve sliding puzzle games
@@ -84,7 +84,7 @@ I'm a passionate software developer and machine learning enthusiast with a stron
 - Simulated a Turing Machine for computational theory demonstrations
 - Technologies: Python, Theory of Computation
 
-### 💼 Applications & Tools
+### Applications & Tools
 
 [![BudgetSync](https://img.shields.io/badge/BudgetSync-00D9FF?style=for-the-badge&logo=money&logoColor=black)](https://github.com/IDebnath/BudgetSync)
 - Personal finance management application
@@ -94,7 +94,7 @@ I'm a passionate software developer and machine learning enthusiast with a stron
 - Audio extraction and conversion tool
 - Technologies: Python, Audio Processing
 
-### 🎨 Web Development
+### Web Development
 
 [![Pink Floyd Tribute](https://img.shields.io/badge/PinkFloyd_Website-000000?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/IDebnath/PinkFloyd_forlife)
 - A tribute website dedicated to Pink Floyd
@@ -104,7 +104,7 @@ I'm a passionate software developer and machine learning enthusiast with a stron
 - Personal portfolio website
 - Technologies: HTML, CSS, JavaScript
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -114,19 +114,19 @@ I'm a passionate software developer and machine learning enthusiast with a stron
 
 </div>
 
-## 🏆 GitHub Achievements
+## GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=IDebnath&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-## 📊 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IDebnath&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 💡 Skills Summary
+## Skills Summary
 
 - **Machine Learning & AI**: Neural Networks, Computer Vision, Natural Language Processing
 - **Algorithms**: Graph Algorithms, Dynamic Programming, Search Algorithms, Optimization
